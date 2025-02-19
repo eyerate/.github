@@ -1,5 +1,5 @@
-## Click Up Task(s)
-<!-- Please list out all CU tickets that this PR covers. -->
+## Jira Task(s)
+<!-- Please list out all Jira issues that this PR covers. -->
 
 ## Notes
 <!-- Provide reviewers with notes on implementation  -->
